@@ -1,1 +1,2 @@
-# Curriculo
+# curriculo
+https://marianybim.github.io/curriculo/
