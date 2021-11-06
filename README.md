@@ -1,2 +1,2 @@
 # curriculo
-https://marianybim.github.io/curriculo/
+https://marianybim.github.io/Curriculo/
