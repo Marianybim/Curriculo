@@ -26,7 +26,9 @@
 	border-color: black;
 	border-style: groove ;
 }
-.espacamento{
-	padding-top: 5%;
-	margin-top:5% ;
+	
+
+footer{
+	text-align: center;
+	background-color: #f8f9fa;
 }
