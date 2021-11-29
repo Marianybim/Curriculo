@@ -20,6 +20,10 @@
 	width: 40%;
 	padding-left: 5%;
 }
+.icon1{
+
+	border-radius: 50%;
+}
 .foto1{
 	height:80% ;
 	width:65% ;
@@ -30,6 +34,10 @@
 	height: 45%;
 	width:25%;
 }	
+h1{
+	
+	padding-top: 5%;
+}
 
 footer{
 	text-align: center;
