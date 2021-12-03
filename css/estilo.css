@@ -2,6 +2,9 @@
 
     background-color:#353839;
 }
+.carrossel{
+	margin-top: 10%;
+}
 .imgavatar{
 	height: 12%;
 	width: 12%;
@@ -9,14 +12,15 @@
 .foto{
 	height: 100%;
 	width: 70%;
+	border-radius: 3%;
 }
 .espaço{
-	padding-top: 2% ;
+	padding-top: 5% ;
 	padding-bottom: 2% ;
 
 }
 .icon{
-	height: 55%;
+	height: 50%;
 	width: 40%;
 	padding-left: 5%;
 }
@@ -30,12 +34,16 @@
 	border-color: black;
 	border-style: groove ;
 }
+.cert{
+	height:50% ;
+	width:95% ;
+}
 .contato{
 	height: 50%;
 	width:25%;
 }	
-h1{
-	
+
+h1,h2{
 	padding-top: 5%;
 }
 
